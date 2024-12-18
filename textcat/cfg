@@ -1,0 +1,8 @@
+{
+  "labels":[
+    "vert_in_vivo",
+    "not_vert_in_vivo"
+  ],
+  "threshold":0.0,
+  "positive_label":null
+}
